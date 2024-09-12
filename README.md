@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Michael Venetz
+- 👋 Hi, I’m @Michael
 - 👀 I’m interested in Front-End Developmend and Web-Developmend.
